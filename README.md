@@ -1,5 +1,5 @@
 ## Olá! Me chamo Jonathan👋
-- Hoje trabalho com front-end 👀
+- Hoje trabalho com full stack 👀
 - HTML, CSS, JAVA SCRIPT, MONGODB, JAVA 🌱
 - Estou aberto para colaborar em projetos e novos desafios 💞️
 - Contate-me no email (casimiroj101@gmail.com) 📫
