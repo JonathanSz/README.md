@@ -1,5 +1,5 @@
 ## Olá! Me chamo Jonathan👋
-- Hoje trabalho com full stack 👀
+- Hoje trabalho como full stack 👀
 - Estou aberto para colaborar em projetos e novos desafios 💞️
 - Contate-me no email (casimiroj101@gmail.com) 📫
 
